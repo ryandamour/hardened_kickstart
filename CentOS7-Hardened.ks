@@ -1,7 +1,3 @@
-# kickstart template for Fedora 8 and later.
-# (includes %end blocks)
-# do not use with earlier distros
-
 install
 
 
